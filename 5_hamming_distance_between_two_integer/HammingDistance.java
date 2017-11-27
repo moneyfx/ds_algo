@@ -13,15 +13,15 @@ The above arrows point to positions where the corresponding bits are different.
 public class HammingDistance {
 
     public static int getHammingDistance(int x, int y) {
-    	int resultOfXor = x ^ y;
-    	
+        int resultOfXor = x ^ y;
+        
         return Integer.bitCount(resultOfXor);
     }
 
     public static void main(String[] args) {
-    	int x = 1;
-    	int y = 4;
+        int x = 1;
+        int y = 4;
 
-    	System.out.println(getHammingDistance(x, y));
+        System.out.println(getHammingDistance(x, y));
     }
 }
