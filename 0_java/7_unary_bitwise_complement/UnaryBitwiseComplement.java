@@ -6,7 +6,7 @@ public class UnaryBitwiseComplement {
 	public static void main(String[] args) {
         int number = 0;
         printBinaryString(number);//00000000000000000000000000000000
-        number = ~ number;
+        number = ~number;
         printBinaryString(number);//11111111111111111111111111111111
     }
 
