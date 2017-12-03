@@ -2,8 +2,7 @@
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
 */
 public class UnaryBitwiseComplement {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
         int number = 0;
         printBinaryString(number);//00000000000000000000000000000000
         number = ~number;
