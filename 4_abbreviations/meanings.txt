@@ -1,0 +1,3 @@
+CPU			central processing unit
+RAM         random access memory
+HTML        Hypertext Markup Language
