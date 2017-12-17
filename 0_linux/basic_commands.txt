@@ -1,0 +1,3 @@
+pwd         working directory
+ls          To list the files in the working directory
+cd          To change your working directory
