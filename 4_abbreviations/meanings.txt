@@ -1,3 +1,9 @@
 CPU         central processing unit
 RAM         random access memory
 HTML        Hypertext Markup Language
+
+SOLID		Single Responsibility Principle, Open/Closed Principle, 
+			Liskov Substitution Principle, Interface Segregation Principle,
+			Dependency inversion principle 
+
+ACID 		Atomicity, Consistency, Isolation, Durability
