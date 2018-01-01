@@ -1,5 +1,5 @@
-CPU         central processing unit
-RAM         random access memory
+CPU         Central Processing Unit
+RAM         Random Access Memory
 HTML        Hypertext Markup Language
 
 SOLID		Single Responsibility Principle, Open/Closed Principle, 
@@ -7,3 +7,4 @@ SOLID		Single Responsibility Principle, Open/Closed Principle,
 			Dependency inversion principle 
 
 ACID 		Atomicity, Consistency, Isolation, Durability
+API			Application programming interface
