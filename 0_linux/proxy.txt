@@ -1,0 +1,18 @@
+sudo apt-get update
+sudo apt-get upgrade
+#install squid:
+sudo apt-get install squid
+#backup original config
+sudo cp /etc/squid/squid.conf /etc/squid/squid.conf.default
+
+sudo service squid restart
+
+# https://www.tecmint.com/install-squid-in-ubuntu/
+# change:http_port 3128 to:  http_port 80
+# change:http_access deny all to http_access allow all
+
+# https://www.vultr.com/docs/install-squid-proxy-on-ubuntu
+
+# https://linode.com/docs/networking/squid/squid-http-proxy-ubuntu-12-04/
+
+
